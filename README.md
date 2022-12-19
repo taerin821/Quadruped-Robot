@@ -2,7 +2,8 @@
 SLAM &amp; AI-Based Guide Quadruped Robot System for the Blind
 -->
 
-# Universal Design Kiosk
+# SLAM & AI-Based Guide Quadruped Robot System for the Blind
+
 |목록|내용|
 |-------|-------|
 |담당 Skills & 사용 Libraries| Dart, Firebase, Flutter|
